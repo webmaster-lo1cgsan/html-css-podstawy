@@ -7,8 +7,6 @@ na zrzucie poniżej:
 
 ![Strona główna](img/index.png)
 
-Kliknij, aby zobaczyć [większy obrazek](img/index.png).
-
 Repozytorium zawiera:
 
 * plik *index.html* – szkielet strony HTML, tu wprowadzaj wszystkie zmiany;
@@ -39,15 +37,13 @@ W pliku *index.html*:
   * klasay `.nalewo`, `.naprawo` pozwalające wyrównywać elementy do lewej i prawej strony
   * klasa `.zrodlo` podkreślająca tekst, pochylająca czcionkę i wyrównująca tekst akapitu "Źródło" do prawej strony
 
-Wykonanie poszczególnych punktów zatwierdzaj w kolejnych migawkach z komentarzem w formacie *1.1, 1.2, 1.3, itd.*
+**Uwaga**: wykonanie poszczególnych punktów zatwierdzaj w kolejnych migawkach z komentarzem w formacie *1.1, 1.2, 1.3, itd.*
 
 ## Zadanie 2
 
 W pliku *norwid.html* należy przygotować stronę HTML, która wygląda podobnie do poniższej:
 
 ![Norwid](img/norwid.png)
-
-Kliknij, aby zobaczyć [większy obrazek](img/norwid.png).
 
 ### Polecenia
 
@@ -62,9 +58,7 @@ Plik *norwid.html* utwórz na podstawie pliku *index.html*. Następnie:
 1. Za pomocą stylów CSS ustaw prawy margines tabeli na 100px.
 1. Utwórz i zastosuj klasę CSS `.tdright`, która definiuje 5% wewnętrzne marginesy oraz prawe obramowanie (2px, grey).
 
-Uwaga:
-
-    Wykonanie poszczególnych punktów zatwierdzaj w kolejnych migawkach z komentarzem w formacie *2.1, 2.2, 2.3, itd.*
+**Uwaga**: wykonanie poszczególnych punktów zatwierdzaj w kolejnych migawkach z komentarzem w formacie *2.1, 2.2, 2.3, itd.*
 
 ## Materiały
 
