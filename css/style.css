@@ -1,0 +1,23 @@
+body {
+    color: #000000;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 14pt;
+    margin: 0;
+    padding: 0;
+}
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:visited { text-decoration: none; }
+
+.clearfix { clear: both; }
+
+header { background-color: lightskyblue; }
+header .menu { background-color: #ccc; font-size: 12pt; line-height: 1.5em; padding: 2px 10px; }
+
+article { width: 100%; }
+article section {
+	font-size: 14pt;
+	line-height: 1.5em;
+}
+
+/* UWAGA: nie zmieniaj powyższych definicji!!! Swoje style dopisz/zmodyfikuj poniżej */
